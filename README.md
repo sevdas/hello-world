@@ -4,6 +4,6 @@ I am currently learning how to code! As much as I like learning, I do like the c
 
 xx, Sevda
 
-🌱 I’m currently learning HTML, CSS & JavaScript
+🌱 I’m currently learning HTML, CSS & JavaScript\
 ⚡ Fun fact: My first attempt to tech was when I have started learning UX/UI. Then I met, HTML, CSS & JavaScript languages.  
 
